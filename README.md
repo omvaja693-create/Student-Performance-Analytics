@@ -1,104 +1,96 @@
 # 📊 Student Performance Analytics Dashboard
 
-🚀 A responsive **Power BI dashboard project** that analyzes student academic performance using interactive visuals and KPIs to help understand learning trends and behavior patterns.
+🚀 A Power BI dashboard project focused on analyzing student academic performance using interactive KPIs and visual analytics to support data-driven educational decisions.
 
 ---
 
 ## ✨ Project Overview
 
-The **Student Performance Analytics Dashboard** provides insights into:
+The **Student Performance Analytics Dashboard** provides meaningful insights into student performance across multiple dimensions such as subjects, terms, sections, and behavior patterns.
 
-- 📚 Subject-wise performance  
-- 🧑‍🎓 Student-level analysis  
-- 🏫 Section-wise comparison  
-- 📈 Term-wise performance trends  
-- 🧠 Student behavior distribution  
-
-This dashboard helps teachers and institutions take **data-driven decisions** to improve student outcomes.
+It is designed to help educators and institutions:
+- Identify learning gaps  
+- Monitor academic trends  
+- Improve student engagement  
+- Take corrective actions early
 
 ---
 
-## 🖥️ Desktop Dashboard Preview
+## 🎯 Project Objectives
 
-![Desktop View](images/dashboard_desktop.png)
-
----
-
-## 📱 Mobile Responsive View
-
-Designed for mobile access using Power BI mobile layout 📲
-
-![Mobile View](images/dashboard_mobile.png)
+- ✅ Track overall student performance  
+- ✅ Compare subject-wise average scores  
+- ✅ Analyze term-wise performance trends  
+- ✅ Identify top-performing students  
+- ✅ Understand student behavior patterns  
 
 ---
 
-## 🎯 Key KPIs
+## 📌 Key Performance Indicators (KPIs)
 
 - 👥 **Total Students:** 1000  
-- ✅ **Attendance Rate:** 90%  
 - 📊 **Average Score:** 49.87  
+- ✅ **Attendance Percentage:** 90%  
 
 ---
 
-## 📌 Visualizations Included
+## 📊 Dashboard Components
 
-✔️ Average Score by Subject (Bar Chart)  
-✔️ % Score by Term (Line Chart)  
-✔️ Top 10 Students Table  
-✔️ Section Filter (A, B, C)  
-✔️ Student Behavior Distribution (Donut Chart)
-
----
-
-## 🛠️ Tools & Technologies
-
-| Tool | Usage |
-|--------|--------|
-| 🟡 Power BI Desktop | Dashboard Development |
-| 📄 Dataset | Student Academic Data |
-| 🧮 DAX | Measures & KPIs |
-| 📊 Charts | Bar, Line, Table, Donut |
+- 📚 **Average Score by Subject** — Bar Chart  
+- 📈 **% Score by Term** — Line Chart  
+- 🧑‍🎓 **Top 10 Students by Score** — Table  
+- 🏫 **Section Filter (A, B, C)** — Slicer  
+- 🧠 **Behavior Count by Type** — Donut Chart  
 
 ---
 
-## 📂 Project Files
+## 🛠️ Tools & Technologies Used
 
-- `Student Performance Analytics.pbix` → Main Power BI dashboard file  
-- `images/` → Dashboard screenshots for README
-
-👉 To view dashboard:
-1. Download the `.pbix` file
-2. Open in **Power BI Desktop**
-
----
-
-## 📈 Insights Generated
-
-- 🏆 Identified top-performing students  
-- 📉 Detected students needing improvement  
-- 📚 Subjects with lowest average scores  
-- 📊 Decline in performance across terms  
-- 🧠 Behavior impact on academics
+| Tool | Description |
+|--------|------------|
+| 🟡 Power BI Desktop | Dashboard creation |
+| 🧮 DAX | Measures & calculated fields |
+| 📄 Dataset | Student performance data |
+| 📊 Visuals | Charts, tables, KPI cards |
 
 ---
 
-## 🚀 Future Enhancements
+## 📂 Project Structure
 
-- 🔹 Attendance vs Score correlation  
-- 🔹 Parent-wise reports  
-- 🔹 AI-based performance prediction  
-- 🔹 Live database connection
+- `Student Performance Analytics.pbix` → Main Power BI dashboard file
+
+👉 To run this project:
+1. Download the `.pbix` file  
+2. Open it using **Power BI Desktop**
+
+---
+
+## 📈 Insights from Dashboard
+
+- 🏆 Top-performing students can be easily identified  
+- 📉 Certain subjects show lower average scores  
+- 📊 Slight decline in performance across terms  
+- 🧠 Student behavior has measurable distribution  
+
+---
+
+## 🚀 Future Scope
+
+- 🔹 Attendance vs Performance analysis  
+- 🔹 Predictive analytics using ML models  
+- 🔹 Real-time database integration  
+- 🔹 Parent and teacher role-based views  
 
 ---
 
 ## 👤 Author
 
 **Om Vaja**  
-🎓 Student | 📊 Power BI Learner | 💡 Data Analytics Enthusiast
+🎓 Student | 📊 Power BI Learner | 💡 Aspiring Data Analyst
 
 ---
 
-## ⭐ Support
+## ⭐ Feedback
 
-If you like this project, please give it a ⭐ on GitHub!  
-Feedback and suggestions are always welcome 😊
+If you found this project useful, feel free to ⭐ the repository.  
+Suggestions and improvements are always welcome! 😊
